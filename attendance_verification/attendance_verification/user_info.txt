@@ -1,0 +1,3 @@
+Brand: Toyota
+Model: Yaris
+Year: 2010
